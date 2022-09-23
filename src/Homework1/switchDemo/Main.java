@@ -1,4 +1,4 @@
-package switchDemo;
+package Homework1.switchDemo;
 
 public class Main {
     public static void main(String[] args) {

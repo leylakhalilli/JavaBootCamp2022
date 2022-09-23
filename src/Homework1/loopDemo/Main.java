@@ -1,4 +1,4 @@
-package loopDemo;
+package Homework1.loopDemo;
 
 public class Main {
     public static void main(String[] args) {

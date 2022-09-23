@@ -1,4 +1,4 @@
-package miniProje1PrimeNumber;
+package Homework1.miniProje1PrimeNumber;
 
 public class Main {
     public static void main(String[] args) {

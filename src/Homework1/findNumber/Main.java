@@ -1,4 +1,4 @@
-package findNumber;
+package Homework1.findNumber;
 
 public class Main {
     public static void main(String[] args) {

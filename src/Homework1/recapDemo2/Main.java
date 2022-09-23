@@ -1,4 +1,4 @@
-package recapDemo2;
+package Homework1.recapDemo2;
 
 public class Main {
     public static void main(String[] args) {

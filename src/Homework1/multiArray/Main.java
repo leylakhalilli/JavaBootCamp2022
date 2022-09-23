@@ -1,4 +1,4 @@
-package multiArray;
+package Homework1.multiArray;
 
 public class Main {
     public static void main(String[] args) {

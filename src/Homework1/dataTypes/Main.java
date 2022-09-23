@@ -1,4 +1,4 @@
-package dataTypes;
+package Homework1.dataTypes;
 
 public class Main {
     public static void main(String[] args) {

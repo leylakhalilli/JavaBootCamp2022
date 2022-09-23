@@ -1,4 +1,4 @@
-package friendlyNumber;
+package Homework1.friendlyNumber;
 
 public class Main {
     public static void main(String[] args) {
