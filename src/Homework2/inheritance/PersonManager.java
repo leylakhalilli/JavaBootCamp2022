@@ -1,4 +1,4 @@
-package inheritance;
+package Homework2.inheritance;
 
 public class PersonManager {
     public void list() {

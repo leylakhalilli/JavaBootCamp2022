@@ -1,4 +1,4 @@
-package inheritance;
+package Homework2.inheritance;
 
 public class CustomerManager extends PersonManager {
     public void bestEmploye() {
