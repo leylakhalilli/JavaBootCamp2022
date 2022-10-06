@@ -1,4 +1,4 @@
-package polymorphismDemo;
+package Homework3.polymorphismDemo;
 
 public class Main {
     public static void main(String[] args) {

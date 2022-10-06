@@ -1,4 +1,4 @@
-package polymorphismDemo;
+package Homework3.polymorphismDemo;
 
 public class EmailLogger extends BaseLogger {
     public void log(String message) {

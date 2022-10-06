@@ -1,4 +1,4 @@
-package overriding;
+package Homework3.overriding;
 
 public class StudentCreditManager extends BaseCreditManager {
     @Override

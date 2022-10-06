@@ -1,4 +1,4 @@
-package overriding;
+package Homework3.overriding;
 
 public class Main {
     public static void main(String[] args) {

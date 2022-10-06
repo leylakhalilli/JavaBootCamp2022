@@ -1,4 +1,4 @@
-package overriding;
+package Homework3.overriding;
 
 public class BaseCreditManager {
     public double calculate(double tutar) {
